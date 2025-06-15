@@ -41,8 +41,11 @@
 
 🚀 Getting Started
 Prerequisites
-- __Python 3.x__
+- **Python 3.x**
+- **Node.js + npm (if setting up frontend separately)**
+- **FFmpeg (optional, for better video/audio handling)**
 
-Node.js + npm (if setting up frontend separately)
 
-FFmpeg (optional, for better video/audio handling)
+
+
+
